@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "title": "Dinner in barbique",
+      "content": "date:12th,night 8:00 pm for new employess",
+      "id": 1
+    },
+    {
+      "title": "Meeting about green",
+      "content": "date 24 ,afternoon",
+      "id": 2
+    },
+    {
+      "title": "Canada Things",
+      "content": "detail things for student visa",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "email": "bharathpusarla59@gmail.com",
+      "name": "bharath",
+      "passward": "1234",
+      "id": 1
+    },
+    {
+      "email": "saytau@gma",
+      "name": "dsayi",
+      "passward": "1234",
+      "id": 2
+    },
+    {
+      "email": "mohanakrishnabhogi555@gmail.com",
+      "name": "karthik",
+      "passward": "1234",
+      "id": 3
+    },
+    {
+      "email": "surya@123",
+      "name": "dsayi",
+      "passward": "1234",
+      "id": 4
+    },
+    {
+      "email": "ggg",
+      "name": "vvhh",
+      "passward": "1234",
+      "id": 5
+    },
+    {
+      "email": "kalyan@gmail.com",
+      "name": "kalyan",
+      "passward": "9520",
+      "id": 6
+    }
+  ]
+}
